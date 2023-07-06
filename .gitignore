@@ -1,0 +1,26 @@
+# Exclude development files and directories
+node_modules/
+package-lock.json
+package.json
+README.md
+.git
+
+# Exclude test files
+test/
+
+# Exclude build artifacts
+build/
+dist/
+out/
+
+# Exclude editor and IDE files
+.vscode/
+.idea/
+*.sublime-*
+*.swp
+*.swo
+*.log
+
+# Exclude other unnecessary files
+*.txt
+*.md
