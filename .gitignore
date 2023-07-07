@@ -24,3 +24,4 @@ out/
 # Exclude other unnecessary files
 *.txt
 *.md
+.vercel
